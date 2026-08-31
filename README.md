@@ -6,7 +6,7 @@
 Nesta aula, aprendemos a controlar um **microservo usando um potenciômetro**. Utilizamos o Arduino e o Tinkercad para montar e simular o circuito, praticando a leitura de valores e o controle do servo por programação.
 
 
-
+````
 
 // C++ code //
 #include <Servo.h>
@@ -32,7 +32,7 @@ void loop() {
 
     delay(15); 
 }
-
+````
 
 
 
