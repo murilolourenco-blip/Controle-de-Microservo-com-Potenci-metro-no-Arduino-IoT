@@ -1,6 +1,12 @@
 # Controle-de-Microservo-com-Potenci-metro-no-Arduino-IoT
 
 <img width="1297" height="675" alt="image" src="https://github.com/user-attachments/assets/739bfba1-65d2-41af-81f7-17c63200c101" />
+ Resumo da aula
+
+Nesta aula, aprendemos a controlar um **microservo usando um potenciômetro**. Utilizamos o Arduino e o Tinkercad para montar e simular o circuito, praticando a leitura de valores e o controle do servo por programação.
+
+
+
 
 // C++ code //
 #include <Servo.h>
@@ -28,9 +34,7 @@ void loop() {
 }
 
 
- Resumo da aula
 
-Nesta aula, aprendemos a controlar um **microservo usando um potenciômetro**. Utilizamos o Arduino e o Tinkercad para montar e simular o circuito, praticando a leitura de valores e o controle do servo por programação.
 
 
 
